@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.24rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.24rem;
 }
 .form-control,
 .form-control:focus {
@@ -1405,7 +1405,7 @@ body {
 .cid-racSpPx31g {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
+  background: linear-gradient(45deg, #eecd17, #eecd17);
 }
 @media (min-width: 992px) {
   .cid-racSpPx31g .mbr-figure {
@@ -1420,7 +1420,7 @@ body {
 .cid-racSs5iJFI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
+  background: linear-gradient(45deg, #eecd17, #eecd17);
 }
 @media (min-width: 992px) {
   .cid-racSs5iJFI .mbr-figure {
@@ -1432,10 +1432,15 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-racSs5iJFI .mbr-text,
+.cid-racSs5iJFI .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-racSAOe5AB {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #eecd17;
 }
 @media (min-width: 992px) {
   .cid-racSAOe5AB .mbr-figure {
@@ -1449,6 +1454,7 @@ body {
 }
 .cid-racSAOe5AB .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-racSG6ClPs {
   background: #ffffff;
@@ -1468,27 +1474,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-racSG6ClPs .image-block {
-    width: 100% !important;
-  }
-}
-.cid-racSLmfscx {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-racSLmfscx .image-block {
-  margin: auto;
-}
-.cid-racSLmfscx figcaption {
-  position: relative;
-}
-.cid-racSLmfscx figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-racSLmfscx .image-block {
     width: 100% !important;
   }
 }
