@@ -1377,6 +1377,8 @@ body {
   display: none;
 }
 .cid-racS3HNO7n {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/femme-souriante-crop-u2783-1172x522.jpg");
 }
 .cid-racS3HNO7n DIV {
@@ -1386,8 +1388,8 @@ body {
   color: #073b4c;
 }
 .cid-racSdI1YQY {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 30px;
   background: linear-gradient(45deg, #eecd17, #eecd17);
 }
 @media (min-width: 992px) {
@@ -1507,12 +1509,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1596,7 +1598,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1971,12 +1973,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -2060,7 +2062,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
